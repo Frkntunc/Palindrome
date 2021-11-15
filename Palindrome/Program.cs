@@ -29,7 +29,7 @@ namespace Palindrome
                 {
                     Console.WriteLine($"{item} bir palindromedir.");
                 }
-            }
+            } 
 
             Console.ReadKey();
         }
